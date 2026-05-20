@@ -42,6 +42,13 @@ The model detects faces and classifies celebrity images using OpenCV, Haar Casca
 8. Predict celebrity from new images
 
 ---
+## Screenshots
+
+![Screenshot 1](ss_1.png)
+
+![Screenshot 2](ss_2.png)
+
+---
 
 ## Folder Structure
 
